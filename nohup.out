@@ -1,0 +1,31 @@
+[I 12:01:37.258 NotebookApp] Serving notebooks from local directory: /home/ubuntu/data-version-control
+[I 12:01:37.258 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 12:01:37.259 NotebookApp] http://localhost:8888/?token=c8ec77617b719a5a5cdb4c65d0dac1882ccc3b97f9be375c
+[I 12:01:37.259 NotebookApp]  or http://127.0.0.1:8888/?token=c8ec77617b719a5a5cdb4c65d0dac1882ccc3b97f9be375c
+[I 12:01:37.259 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:01:37.266 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/ubuntu/.local/share/jupyter/runtime/nbserver-5076-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=c8ec77617b719a5a5cdb4c65d0dac1882ccc3b97f9be375c
+     or http://127.0.0.1:8888/?token=c8ec77617b719a5a5cdb4c65d0dac1882ccc3b97f9be375c
+[W 12:01:50.100 NotebookApp] Clearing invalid/expired login cookie username-localhost-8007
+[W 12:01:50.101 NotebookApp] Clearing invalid/expired login cookie username-localhost-8007
+[W 12:01:50.102 NotebookApp] Forbidden
+[W 12:01:50.103 NotebookApp] 403 GET /api/sessions?_=1660555499725 (127.0.0.1) 3.48ms referer=http://localhost:8007/tree/efs/RTP_DS/Users/Vishnu
+[W 12:01:50.104 NotebookApp] Clearing invalid/expired login cookie username-localhost-8007
+[I 12:01:50.104 NotebookApp] 302 GET /tree/efs/RTP_DS/Users/Vishnu (127.0.0.1) 3.09ms
+[W 12:01:50.105 NotebookApp] Clearing invalid/expired login cookie username-localhost-8007
+[W 12:01:50.105 NotebookApp] Forbidden
+[W 12:01:50.106 NotebookApp] 403 GET /api/terminals?_=1660555499726 (127.0.0.1) 0.86ms referer=http://localhost:8007/tree/efs/RTP_DS/Users/Vishnu
+[I 12:01:54.680 NotebookApp] 302 POST /login?next=%2Ftree%2Fefs%2FRTP_DS%2FUsers%2FVishnu (127.0.0.1) 1.11ms
+[W 12:01:54.722 NotebookApp] 404 GET /tree/efs/RTP_DS/Users/Vishnu (127.0.0.1) 8.06ms referer=http://localhost:8007/login?next=%2Ftree%2Fefs%2FRTP_DS%2FUsers%2FVishnu
+[W 12:01:56.660 NotebookApp] 404 GET /tree/efs/RTP_DS/Users/Vishnu (127.0.0.1) 1.44ms referer=http://localhost:8007/login?next=%2Ftree%2Fefs%2FRTP_DS%2FUsers%2FVishnu
+[W 12:01:57.458 NotebookApp] 404 GET /tree/efs/RTP_DS/Users/Vishnu (127.0.0.1) 1.46ms referer=http://localhost:8007/login?next=%2Ftree%2Fefs%2FRTP_DS%2FUsers%2FVishnu
+[W 12:01:58.135 NotebookApp] 404 GET /tree/efs/RTP_DS/Users/Vishnu (127.0.0.1) 1.39ms referer=http://localhost:8007/login?next=%2Ftree%2Fefs%2FRTP_DS%2FUsers%2FVishnu
+[W 12:01:58.361 NotebookApp] 404 GET /tree/efs/RTP_DS/Users/Vishnu (127.0.0.1) 1.39ms referer=http://localhost:8007/login?next=%2Ftree%2Fefs%2FRTP_DS%2FUsers%2FVishnu
+[I 12:02:08.033 NotebookApp] 302 POST /login?next=%2Ftree%2Fefs%2FRTP_DS%2FUsers%2FVishnu (127.0.0.1) 1.09ms
+[W 12:02:08.060 NotebookApp] 404 GET /tree/efs/RTP_DS/Users/Vishnu (127.0.0.1) 1.44ms referer=http://localhost:8007/login?next=%2Ftree%2Fefs%2FRTP_DS%2FUsers%2FVishnu
+[W 12:02:16.118 NotebookApp] 404 GET /efs/RTP_DS/Users/Vishnu (127.0.0.1) 1.31ms referer=None
+[I 12:02:21.848 NotebookApp] 302 GET / (127.0.0.1) 0.51ms
